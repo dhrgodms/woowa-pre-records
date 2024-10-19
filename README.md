@@ -1,4 +1,4 @@
-# woowa-pre-records
+# 📌 woowa-pre-records
 
 **우아한테크코스 프리코스 (7기)를 겪으며 배운 것을 기록한 저장소입니다.**
 
@@ -11,7 +11,7 @@
 
 - [1주차 문자열 덧셈 계산기](https://github.com/dhrgodms/java-calculator-7)
 
-### 리팩토링 회고
+### ⚙️ 리팩토링 회고
 
 - [1주차 리팩토링 정리](https://github.com/dhrgodms/woowa-pre-records/blob/main/Week1/1%EC%A3%BC%EC%B0%A8_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81_%EC%A0%95%EB%A6%AC.md)
 
