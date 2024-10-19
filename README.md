@@ -9,7 +9,7 @@
 
 ### 💻 미션 코드
 
-- [1주차 문자열 덧셈 계산기](https://github.com/dhrgodms/java-calculator-7)
+- [1주차 문자열 덧셈 계산기](https://github.com/dhrgodms/java-calculator-7/tree/dhrgodms)
 
 ### ⚙️ 리팩토링 회고
 
