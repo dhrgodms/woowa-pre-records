@@ -6,11 +6,13 @@
 
 - [1주차 문자열 덧셈 계산기](https://github.com/dhrgodms/java-calculator-7/tree/dhrgodms)
 - [2주차 자동차 경주](https://github.com/dhrgodms/java-racingcar-7/tree/dhrgodms)
+- [3주차 로또](https://github.com/dhrgodms/java-lotto-7/tree/dhrgodms)
 
 ### ⚙️ 리팩토링 회고
 
 - [1주차 리팩토링 정리](https://github.com/dhrgodms/woowa-pre-records/blob/main/Week1/1%EC%A3%BC%EC%B0%A8_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81_%EC%A0%95%EB%A6%AC.md)
 - [2주차 리팩토링 정리](https://github.com/dhrgodms/woowa-pre-records/blob/main/Week2/2%EC%A3%BC%EC%B0%A8_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81_%EC%A0%95%EB%A6%AC.md)
+- [3주차 리팩토링 정리](https://github.com/dhrgodms/woowa-pre-records/blob/main/Week3/3%EC%A3%BC%EC%B0%A8_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81_%EC%A0%95%EB%A6%AC.md)
 
 ### 📄 회고
 
